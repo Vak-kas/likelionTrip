@@ -1,0 +1,21 @@
+pip install exifread geopy pillow requests konlpy openai
+pip install pillow requests
+pip install konlpy
+pip install openai
+
+
+
+질문
+1. 여행에서 새로운 사람들을 만남은 중요하다
+2. 자연 경관을 감상할 수 있는 여행지가 좋다
+3. 전통적인 문화 유산을 탐방하는 것이 좋다
+4. 여행 계획한 대로 최대한 이행하려고 노력한다
+5. 지역의 특색있는 음식 경험은 매우 중요하다
+6. 여행 중 휴식시간에, 숙소에서 편히 쉬고 싶다
+7. 이미 한 번 방문한 지역이라도, 여러 번 해당 지역을 다시 여행하고 싶다.
+8. 해당 지역의 지역문화 축제를 즐기는 것이 좋다.
+9. 유명 건축물, 높은 건물, 도시의 야경에서 나오는 웅장함이 좋다
+10. 집에서 가까운 곳이라도 자주 여행을 떠나고 싶다.
+
+
+https://imagga.com/profile/dashboard   -> 이미지 분석 api
